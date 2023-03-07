@@ -1,0 +1,47 @@
+React Series 
+. Introductiong to React - Building singel Page react application(To-do-List)
+
+Coverage
+.Installations 
+.Build a To-Do app 
+.Displaying dynamic content 
+
+Displaying Dynamic content
+.state / State changes 
+.Props(Properties)
+.Components/importing/Child Components 
+.Props callback
+.Exposure to JSX 
+
+JSX (JavaScript XML)
+.Easier t write and add html in React
+.JSX is an HTML - like syntax
+.Helps to avoid large nested HTML documents 
+.XML/HTML-Like text co-exist with JS/React code 
+
+
+React Components - Classes or Functions 
+.Worthwhile understanding both 
+.Newer Components - function/hook based 
+.Benefits 
+    .Reusability
+    .Less code 
+
+
+Displaying dynamic content
+.state / state changes
+.Props (Properties)
+.Components/importing/ Child Components
+.Props callback
+.Exposure to JSX
+
+
+
+React Series
+.Introduction to React using function - Building single page react application (To-do List)
+
+Coverage
+.Installations
+.Build a To-do app
+.Class vs Hook/Functions comparison
+
